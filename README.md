@@ -1,4 +1,4 @@
-# Blog articles where the papers are explained
+# Blog articles where the papers are discussed in the blogs 
 
 ---------
 Databases
@@ -16,3 +16,4 @@ Generative AI
 -------------
 1. [Rephrase and Respond : Let LLM Ask Better Questions for Themselves](https://medium.com/@bajpaihimanshu/papermadeeasy-rephrase-and-respond-let-llm-ask-better-questions-for-themselves-4bae9d37d018)
 2. [From Sparse to Dense: GPT-4 Summarization with Chain of Density Prompting](https://bajpaihimanshu.medium.com/papermadeeasy-from-sparse-to-dense-gpt-4-summarization-with-chain-of-density-prompting-c6bab846a9d4)
+3. [RAGAS: Automated Evaluation of Retrieval Augmented Generation](https://medium.com/@bajpaihimanshu/papermadeeasy-ragas-automated-evaluation-of-retrieval-augmented-generation-ccfe5ea50db0)
