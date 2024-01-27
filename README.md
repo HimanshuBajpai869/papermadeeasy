@@ -5,6 +5,7 @@ Databases
 ---------
 1. [MyRocks: LSM-Tree Database Storage Engine Serving Facebook’s Social Graph](
 https://bajpaihimanshu.medium.com/papermadeeasy-myrocks-lsm-tree-database-storage-engine-serving-facebooks-social-graph-2580c76a7c7d)
+1. [Panda : Performance Debugging for Databases using LLMs Agents](https://bajpaihimanshu.medium.com/papermadeeasy-panda-performance-debugging-for-databases-using-llms-agents-ae844cdbe26d)
 
 ------------------
 Systems Engineering
