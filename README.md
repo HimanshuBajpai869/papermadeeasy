@@ -11,6 +11,7 @@ https://bajpaihimanshu.medium.com/papermadeeasy-myrocks-lsm-tree-database-storag
 Systems Engineering
 ------------------
 1. [Techniques for Highly Available Systems : Anycast is all you need!](https://bajpaihimanshu.medium.com/techniques-for-highly-available-systems-anycast-is-all-yo-6e1658b0ceb4)
+2. [Amazon Redshift and the Case for Simpler Data Warehouses](https://bajpaihimanshu.medium.com/papermadeeasy-amazon-redshift-and-the-case-for-simpler-data-warehouses-b9bd53d4a8d9)
 
 -------------
 Generative AI
